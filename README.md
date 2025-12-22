@@ -159,7 +159,6 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ManuelJ0aquim&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManuelJ0aquim&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelJ0aquim&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
