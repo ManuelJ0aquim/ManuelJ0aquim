@@ -7,22 +7,18 @@
   , I'm Manuel Joaquim
 </h1>
 
-<h3 align="center">Full Stack & Cloud-Oriented Developer from Angola 🇦🇴</h3>
+I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion for crafting resilient backend systems and streamlining development workflows. My approach combines technical precision with practical automation to create solutions that scale effectively.
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/binary/mjoaquim?1337Badge=off&UM6P=off" alt="42 Badge" />
+  </a>
+</p>
 
-I’m a software engineering student and cloud-oriented developer focused on building **scalable backend systems**, **automated infrastructure**, and **secure cloud-native applications**.  
-My work combines **software engineering fundamentals** with **DevOps and cloud practices** to deliver reliable, efficient, and maintainable systems.
-
-I have hands-on experience with **containerization, CI/CD pipelines, cloud platforms, and backend development**, and I’m continuously improving my skills in **Kubernetes, system design, and cloud security**.
-
-- 👀 Interested in **Cloud & Cyber Security**
-- 🌱 Currently mastering **Kubernetes**
-- 📌 Open to collaborate on **AWS, Azure & GCP projects**
-- 💬 Always open to learning and technical discussions
-
+- 🔍 Strong foundation in **algorithms, system design, and microservices**
+- 🚀 Experience with **Java/Spring Boot, C++, React.js, Node.js, and Dockerized infrastructures**  
+- 🛡️ Focused on **scalability, performance optimization, and security**  
+- 💡 Thrive in collaborative environments and enjoy tackling complex technical challenges
 ---
 
 ##  🥇 Main Skill
