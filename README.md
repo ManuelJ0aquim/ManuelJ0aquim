@@ -49,10 +49,6 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
       <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" />
       <br>Redis
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" />
-      <br>java
-    </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" />
       <br>Postman
@@ -69,20 +65,12 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="90">
        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>Rest API
     </td>
     <td align="center" width="90">
      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
       <br>Kubernetes
-    </td>
-   <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dynamodb" width="45" height="45" alt="dynamodb" />
-      <br>Dynamodb
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=kali" width="45" height="45" alt="Kali" />
@@ -99,10 +87,6 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="wordpress" />
-      <br>Wordpress
     </td>
   </tr>
 <!-- common -->
@@ -132,10 +116,6 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
-      <br>SQLite
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="nestjs" />
