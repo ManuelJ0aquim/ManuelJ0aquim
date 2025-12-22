@@ -1,32 +1,25 @@
-<!-- =============================== -->
-<!-- 👋 Intro -->
-<!-- =============================== -->
-<h1 align="center">
-  Namaste
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45" />
-  , I'm Manuel Joaquim
-</h1>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header">
+
+# <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+page;I'm+Manuel+Joaquim;Have+a+great+day">
 
 I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion for crafting resilient backend systems and streamlining development workflows. My approach combines technical precision with practical automation to create solutions that scale effectively.
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/binary/mjoaquim?1337Badge=off&UM6P=off" alt="42 Badge" />
+    <img src="https://badge.mediaplus.ma/darkblue/mjoaquim?1337Badge=off&UM6P=off" alt="42 Badge" />
   </a>
 </p>
 
 - 🔍 Strong foundation in **algorithms, system design, and microservices**
-- 🚀 Experience with **Java/Spring Boot, C++, React.js, Node.js, and Dockerized infrastructures**  
+- 🚀 Experience with **Golang, C/C++, React.js, Node.js, Fastify, and Dockerized infrastructures**  
 - 🛡️ Focused on **scalability, performance optimization, and security**  
 - 💡 Thrive in collaborative environments and enjoy tackling complex technical challenges
+- ⚡ Fun fact **I'm a programmer, but I don't drink coffee.**
 ---
 
 ##  🥇 Main Skill
 <br />
-
-
 <table align="center">
-<!-- skill -->
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
@@ -165,37 +158,12 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelJ0aquim&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelJ0aquim&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelJ0aquim&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ManuelJ0aquim&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ManuelJ0aquim&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelJ0aquim&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
-
-## 🚀 Featured Projects
-
-### [Scalable-E-Commerce-Platform ](https://github.com/ManuelJ0aquim/Scalable-E-Commerce-Platform)) – Enterprise E-commerce Backend
-*A scalable backend platform designed for modern e-commerce systems*
-
-- 🛒 Implemented product catalog, shopping cart, order management, and payment workflows  
-- 💳 Integrated **Stripe** for secure online payments  
-- 📈 Designed robust REST APIs with authentication, validation, and error handling  
-- 🛠️ **Technologies**: Java, Spring Boot, MySQL, Stripe API, REST APIs, Docker  
-
-### [Inception](https://github.com/Serghini04/Inception) – Containerized Infrastructure
-*A container-based architecture for service orchestration and DevOps learning*
-
-- 🐳 Deployed multi-service setup with **Docker Compose** and custom configurations  
-- 🔑 Secured services with SSL certificates and environment variables  
-- 📦 Orchestrated NGINX, WordPress, MariaDB, and FTP in isolated containers  
-- 🛠️ **Technologies**: Docker, Docker Compose, NGINX, MariaDB, WordPress, SSL/TLS
-
-<p align="center"><i>Explore more solutions on <a href="https://github.com/Serghini04?tab=repositories">my repositories</a>!</i></p>
-
----
-
 
 
 ## 🤝 Professional Skills
@@ -206,25 +174,6 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
 - **Continuous Learning**: Always exploring better, more efficient, and maintainable solutions  
 ---
 
-## 🔗 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chinmay-sharad-kaitade" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:chinmaykaitade123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/chinmaydotcom" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/ChinmayKaitade" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://chinmaykaitadeportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@chinmaykaitade" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+## Contact info 📞
+ - Email: filipejoaquim828@gmail.com 📩
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
