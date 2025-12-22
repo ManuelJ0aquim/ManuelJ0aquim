@@ -6,7 +6,7 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/vleonel?1337Badge=off&UM6P=off" alt="42 Badge" />
+    <img src="https://badge.mediaplus.ma/darkblue/mjoaquim?1337Badge=off&UM6P=off" alt="42 Badge" />
   </a>
 </p>
 
