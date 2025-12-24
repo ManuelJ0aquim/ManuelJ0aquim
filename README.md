@@ -10,9 +10,10 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
   </a>
 </p>
 
-- 🔍 Strong foundation in **algorithms, system design, and microservices**
-- 🚀 Experience with **Golang, C/C++, React.js, Node.js, Fastify, and Dockerized infrastructures**  
-- 🛡️ Focused on **scalability, performance optimization, and security**  
+- 💼 Currently working on **Full Stack & DevOps Projects**
+- 🌱 Learning **Kubernetes, AWS, and System Design**
+- 💡 Passionate about **Clean Code & Best Practices**
+- 🎨 Love creating **Scalable & Efficient Solutions**
 - 💡 Thrive in collaborative environments and enjoy tackling complex technical challenges
 - ⚡ Fun fact **I'm a programmer, but I don't drink coffee.**
 ---
