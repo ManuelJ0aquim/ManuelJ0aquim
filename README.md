@@ -76,10 +76,6 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
       <br>Django
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45"/>
-      <br>FastAPI
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/>
       <br>Tailwind CSS
     </td>
@@ -140,6 +136,10 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/>
       <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ansible" width="45" height="45"/>
+      <br>Ansible
     </td>
   </tr>
 </table>
