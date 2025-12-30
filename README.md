@@ -102,18 +102,12 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
   </tr>
 </table>
 
----
-
 ### 🗄️ Databases & Cache
 <table>
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/>
       <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55"/>
-      <br>MySQL
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/>
@@ -166,17 +160,7 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
   </tr>
 </table>
 
-
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ManuelJ0aquim&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelJ0aquim&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
-
 
 ## 🤝 Professional Skills
 
