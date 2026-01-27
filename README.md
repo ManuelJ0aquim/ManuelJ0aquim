@@ -134,12 +134,20 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
       <br>Kubernetes
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/>
-      <br>AWS
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ansible" width="45" height="45"/>
       <br>Ansible
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=grafana" width="45" height="45"/>
+      <br>Grafana
+    </td>
+      <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="45" height="45"/>
+      <br>Prometheus
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/>
+      <br>AWS
     </td>
   </tr>
 </table>
