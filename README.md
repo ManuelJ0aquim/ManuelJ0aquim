@@ -23,10 +23,10 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
 ### 🧠 Programming Languages
 <table>
   <tr>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55"/>
       <br>JavaScript
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55"/>
       <br>TypeScript
@@ -55,10 +55,10 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
 ### ⚙️ Frameworks & Libraries
 <table>
   <tr>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55"/>
       <br>React
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45"/>
       <br>Next.js
@@ -67,10 +67,10 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/>
       <br>Node.js
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45"/>
       <br>NestJS
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" height="55"/>
       <br>Django
