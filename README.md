@@ -179,6 +179,6 @@ I'm a Software Engineering student at **42 Luanda** (42 Network) with a passion 
 ---
 
 ## Contact info 📞
- - Email: filipejoaquim828@gmail.com 📩
+ - Email: manuelsanchesjoaquim@gmail.com 📩
  - Linkedin: https://www.linkedin.com/in/manuel-joaquim-2166983a0
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
