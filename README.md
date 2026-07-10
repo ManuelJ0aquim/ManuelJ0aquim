@@ -12,5 +12,5 @@
 
 ## Contact info 📞
  - Email: manuelsanchesjoaquim@gmail.com 📩
- - Linkedin: https://www.linkedin.com/in/manuel-joaquim-2166983a0
+ - Linkedin: https://www.linkedin.com/in/manuelsjoaquim
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
